@@ -118,17 +118,12 @@ export const socials = [
   {
     label: "Github",
     icon: "GithubIcon",
-    href: "https://github.com/martiandefi",
+    href: "https://github.com/SwordFinance/contract",
   },
   {
     label: "Gitbook",
     icon: "GitbookIcon",
-    href: "https://martianswap.gitbook.io/",
-  },
-  {
-    label: "Medium",
-    icon: "MediumIcon",
-    href: "https://martianswap.medium.com/",
+    href: "https://financesword.gitbook.io/sword-finance/",
   },
   {
     label: "Telegram",
@@ -136,7 +131,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/martianswap",
+        href: "https://t.me/SwordFinance",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -178,10 +173,6 @@ export const socials = [
       //   label: "Français",
       //   href: "https://t.me/pancakeswapfr",
       // },
-      {
-        label: "Announcements",
-        href: "https://t.me/martianswapnews",
-      },
       // {
       //   label: "Whale Alert",
       //   href: "https://t.me/PancakeSwapWhales",
@@ -191,7 +182,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/MartianSWAP",
+    href: "https://twitter.com/sword_finance",
   },
 ];
 
