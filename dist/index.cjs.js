@@ -2371,6 +2371,8 @@ var Panel = function (props) {
     var isPushed = props.isPushed, showMenu = props.showMenu;
     return (React__default['default'].createElement(StyledPanel, { isPushed: isPushed, showMenu: showMenu },
         React__default['default'].createElement(PanelBody, __assign({}, props)),
+        React__default['default'].createElement("a", { href: "https://jagosafer.io/sword-finance" },
+            React__default['default'].createElement("img", { src: "https://jagosafer.io/flags/greenflag.svg" })),
         React__default['default'].createElement(PanelFooter, __assign({}, props))));
 };
 var templateObject_1$D;

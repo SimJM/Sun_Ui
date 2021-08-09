@@ -39,6 +39,7 @@ const Panel: React.FC<Props> = (props) => {
   return (
     <StyledPanel isPushed={isPushed} showMenu={showMenu}>
       <PanelBody {...props} />
+      <a href="https://jagosafer.io/sword-finance"><img src="https://jagosafer.io/flags/greenflag.svg" /></a>
       <PanelFooter {...props} />
     </StyledPanel>
   );
