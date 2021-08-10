@@ -2360,6 +2360,8 @@ var Panel = function (props) {
         React.createElement(PanelBody, __assign({}, props)),
         React.createElement("a", { href: "https://jagosafer.io/sword-finance" },
             React.createElement("img", { src: "https://jagosafer.io/flags/greenflag.svg" })),
+        React.createElement("a", { href: "https://rugdoc.io/project/sword-finance/" },
+            React.createElement("img", { src: "https://rugdoc.io/assets/2021/06/rugdoc-review-badge-with-glow.png" })),
         React.createElement(PanelFooter, __assign({}, props))));
 };
 var templateObject_1$D;

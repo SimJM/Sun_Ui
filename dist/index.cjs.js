@@ -2373,6 +2373,8 @@ var Panel = function (props) {
         React__default['default'].createElement(PanelBody, __assign({}, props)),
         React__default['default'].createElement("a", { href: "https://jagosafer.io/sword-finance" },
             React__default['default'].createElement("img", { src: "https://jagosafer.io/flags/greenflag.svg" })),
+        React__default['default'].createElement("a", { href: "https://rugdoc.io/project/sword-finance/" },
+            React__default['default'].createElement("img", { src: "https://rugdoc.io/assets/2021/06/rugdoc-review-badge-with-glow.png" })),
         React__default['default'].createElement(PanelFooter, __assign({}, props))));
 };
 var templateObject_1$D;
